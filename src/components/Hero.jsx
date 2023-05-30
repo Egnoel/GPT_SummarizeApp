@@ -9,7 +9,7 @@ const Hero = () => {
           type="button"
           className="black_btn"
           onClick={() => {
-            window.open('https://github.com/egnoel');
+            window.open('https://github.com/Egnoel/GPT_SummarizeApp');
           }}
         >
           GitHub
